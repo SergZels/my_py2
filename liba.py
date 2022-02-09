@@ -9,3 +9,6 @@ def fun(x):
 def f2(args):
     return args*2
 
+def fun3(x):
+    pass
+
