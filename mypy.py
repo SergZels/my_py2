@@ -1,14 +1,11 @@
-from xml.etree.ElementInclude import include
-
-
 import liba as li
 
-for i in range (10):
+for i in range (2):
 
     print(li.a)
     print(li.fun(i))
 
-print("Ok")
+print(f"Ok {li.pi} {li.__name__}")
 
 
 
