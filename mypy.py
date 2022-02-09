@@ -1,11 +1,12 @@
 import liba as li
 
-for i in range (2):
+for i in range (10):
 
     print(li.a)
     print(li.fun(i))
 
-print(f"Ok {li.pi} {li.__name__}")
+print(f"Ok {li.pi}")
+print ("br1 is ok")
 
 print("main")
 

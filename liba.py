@@ -4,6 +4,8 @@
 a=1111
 pi=3.14
 bi = 4545
+kk=999
+
 '''Код'''
 def fun(x):
     return x+1
