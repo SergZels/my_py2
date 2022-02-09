@@ -6,7 +6,7 @@ for i in range (10):
     print(li.fun(i))
 
 print(f"Ok {li.pi}")
-print ("br1")
+print ("br1 is ok")
 
 
 
